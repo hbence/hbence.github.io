@@ -1,17 +1,18 @@
 # Site settings
-title: "hb games"
+title: "hbence games"
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: hbencegames@gmail.com
+description: "hbence games development blog"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: no-name
+twitter_username: hbence_games
 github_username:  hbence
 facebook_username:  no-name
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
+gems: [jekyll-paginate]
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

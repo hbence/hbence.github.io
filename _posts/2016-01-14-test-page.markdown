@@ -1,0 +1,20 @@
+---
+layout:     page
+title:      "First post!"
+subtitle:   "Testing the website"
+date:       2016-01-13 20:57:00
+author:     "hbence"
+header-img: "img/home-bg.jpg"
+---
+
+<h2 class="section-heading">Test post</h2>
+
+<p>This website will be used to publish information about the games I will be developing in the coming months. It uses the Jekyll version of <a href="https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll">this Bootstrap theme</a> and it is published on <a href="https://pages.github.com">Github Pages</a>. I'm still getting used to it, but so far it seems simple enough. Hopefully it's going to work out. </p>
+
+
+<a href="#">
+    <img class ="center" src="{{ site.baseurl }}/img/elem.jpg" alt="Numeric elem">
+</a>
+<span class="caption text-muted">A little guy from an under-development puzzle game.</span>
+
+<p>The <a href="{{ site.baseurl }}/games/index.html">games pages</a> is a bit bare for now, but I've added three games which will be hopefully released shortly. Weird One will be the first, this is a very simple game, I intend to use it to test the waters on the different app markets. CRCL will be a bit more elaborate, this one will also have a web version which will be available after the mobile release. And Numeric Nirvana is a puzzle game which will be in development for a bit longer but I thought I would use this to test the game pages on this website.</p>
